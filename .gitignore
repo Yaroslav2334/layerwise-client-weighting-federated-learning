@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+ai4i2020.csv
+results.csv
+threshold_results.csv
+false_alarm_results.csv
+recall_vs_false_alarms.pdf
+recall_vs_false_alarms.png
